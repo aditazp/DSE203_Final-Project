@@ -1,0 +1,19 @@
+Company,% Overlap,
+Juniper Networks,27,routers
+Hewlett Packard Enterprise,19,server
+Huawei,17,networking
+Arista Networks,15,switches
+VMWare,10,server
+D-Link,8,routers
+Extreme Networks,4,switches
+Big Switch Networks,3,switches
+Cumulus Networks,3,switches
+Dell EMC,3,server
+Lenovo,2,server
+Mellanox Technologies,2,switches
+NETGEAR,2,routers
+Allied Telesis,1,switches
+H3C,1,networking
+NEC,1,networking
+Pluribus Networks,1,server
+ZTE,1,networking
