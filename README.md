@@ -5,3 +5,5 @@
   #### -Edit neo4J location and user for computers hosting location
   #### -Modify password utilized by graph created in Neo4j
   #### -Run Neo4J_Database_Insert.py
+  
+### For Database creation from scratch follow Additional Resources
